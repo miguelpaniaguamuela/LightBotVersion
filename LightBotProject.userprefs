@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\seePlayers.cs">
+    <Files>
+      <File FileName="Assets\Scripts\seePlayers.cs" Line="70" Column="63" />
+      <File FileName="Assets\Scripts\savePlayers.cs" Line="61" Column="1" />
+      <File FileName="Assets\Scripts\InstantiateMenu.cs" Line="68" Column="15" />
+      <File FileName="Assets\Scripts\Instantiate.cs" Line="182" Column="48" />
+      <File FileName="Assets\Scripts\cameraScript.cs" Line="26" Column="47" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="147" Column="23" />
+      <File FileName="Assets\Scripts\panelTask.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerShow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CanvasScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\setScore.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
